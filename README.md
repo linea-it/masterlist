@@ -38,6 +38,6 @@ You can add/edit entries in the database using the Administration interface at h
 
 Use the username: ```nobody``` and password: ```nobody``` to access the admin interface.
 
-The table allows an image column, if you place an image under ```static\img``` and register the name of
+The table allows an image column, if you place an image under ```static/img``` and register the name of
 the image file in the ```thumb``` column the corresponding image will appear in the table.
 
