@@ -25,7 +25,7 @@ Developed initially for the DES SL group to handle list of candidates for follow
 the first time you will be asked to set a database password, use ```nobody```.
 
 
-The app will run in our browser at http://localhost:8000
+The app will run in your browser at http://localhost:8000
 
 ## Changing the page layout
 The layout of the page is defined at ```masterlist/candidates/templates```
