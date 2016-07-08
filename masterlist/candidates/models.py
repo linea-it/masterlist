@@ -10,6 +10,7 @@ class Candidate(models.Model):
 
     thumb = models.CharField(null=True, max_length=255, verbose_name="Image")
     id = models.IntegerField(null=False, verbose_name="ID", primary_key=True)
+    object_id = models.CharField(null=True, max_length=128, verbose_name="Object ID")
     ra = models.FloatField(null=False, verbose_name="RA")
     dec = models.FloatField(null=False, verbose_name="Dec")
     rank = models.IntegerField(null=True, verbose_name="Rank")
@@ -17,8 +18,8 @@ class Candidate(models.Model):
     mag_max = models.FloatField(null=True, verbose_name="Mag Max")
     sb_min = models.FloatField(null=True, verbose_name="SB Min")
     sb_max = models.FloatField(null=True, verbose_name="SB Max")
-    vis_start = models.FloatField(null=True, verbose_name="Vis Start")
-    vis_end = models.FloatField(null=True, verbose_name="Vis End")
+    vis_start = models.CharField(null=True, max_length=64, verbose_name="Vis Start")
+    vis_end = models.CharField(null=True, max_length=64, verbose_name="Vis End")
     mask_red = models.FloatField(null=True, verbose_name="Mask Red")
     mask_blue = models.FloatField(null=True, verbose_name="Mask Blue")
     position_angle = models.FloatField(null=True, verbose_name="position angle")
