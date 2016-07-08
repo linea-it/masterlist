@@ -1,0 +1,22 @@
+[
+  {
+    "model": "candidates.candidate",
+    "pk": 1,
+    "fields": {
+      "thumb" : "DES0042-4414_10208310_-44133023.png",
+      "object_id" : "DESJ000-000",
+      "ra" : 10.20279,
+      "dec" : -44.12075,
+      "rank" : 10,
+      "mag_min" : 22.3,
+      "mag_max" : 23.8,
+      "sb_min" : 23,
+      "sb_max" : 24.55,
+      "vis_start" : "8/10/2016",
+      "vis_end" : "12/5/2016",
+      "mask_red" : 6,
+      "mask_blue" : 7,
+      "position_angle" : 300
+    }
+  }
+]
