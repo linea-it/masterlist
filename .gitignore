@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Django auto-generated static files
+masterlist/static/django/
+
+# Django database
+masterlist/db.sqlite3
