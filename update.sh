@@ -47,7 +47,15 @@ echo
 echo "= Cleaning up the auto-generated static files ="
 python manage.py collectstatic --clear --noinput --verbosity 0 || error_exit "Error, exit" 11
 cd ..
+
 ### REMEMBER TO IMPLEMENT A WAY TO apache reload
+# this can be done using
+# - iptables or a nginx/varnish at 80 with proxies at 8080
+#   http://stackoverflow.com/questions/525672/is-there-a-way-to-start-restart-stop-apache-server-on-linux-as-non-root-user
+# - using sudo only for the reload command
+#   https://www.quora.com/How-can-I-grant-a-user-access-to-run-etc-init-d-apache2-reload-without-giving-them-sudo-or-root
+# - enabling a non root user to open the port 80
+#   http://askubuntu.com/questions/694036/apache-as-non-root
 
 echo
 echo "= Exiting ="
