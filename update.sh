@@ -11,7 +11,7 @@ function error_exit {
 }
 
 echo "= Updating the code ="
-cd /home/campisano/Desktop/masterlist$DRI_HOME
+cd $DRI_HOME
 git pull || error_exit "Error, exit" 1
 echo "= Setting up env ="
 source env/bin/activate || error_exit "Error, exit" 2
