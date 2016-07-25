@@ -16,13 +16,15 @@ class Candidate(models.Model):
     rank = models.IntegerField(null=True, verbose_name="Rank")
     mag_min = models.FloatField(null=True, verbose_name="Mag Min")
     mag_max = models.FloatField(null=True, verbose_name="Mag Max")
-    sb_min = models.FloatField(null=True, verbose_name="SB Min")
-    sb_max = models.FloatField(null=True, verbose_name="SB Max")
     vis_start = models.CharField(null=True, max_length=64, verbose_name="Vis Start")
     vis_end = models.CharField(null=True, max_length=64, verbose_name="Vis End")
-    mask_red = models.FloatField(null=True, verbose_name="Mask Red")
-    mask_blue = models.FloatField(null=True, verbose_name="Mask Blue")
+    mask = models.FloatField(null=True, verbose_name="Mask")
+    data_season = models.CharField(null=True, max_length=64, verbose_name="DES data season")
     position_angle = models.FloatField(null=True, verbose_name="position angle")
+    followup_date = models.FloatField(null=True, verbose_name="followup date")
+    followup_facility = models.FloatField(null=True, verbose_name="followup facility")
+    followup_success = models.FloatField(null=True, verbose_name="followup success")
+
 
     def __str__(self):
 
