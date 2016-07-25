@@ -18,7 +18,7 @@ class Candidate(models.Model):
     mag_max = models.FloatField(null=True, verbose_name="Mag Max")
     vis_start = models.CharField(null=True, max_length=64, verbose_name="Vis Start")
     vis_end = models.CharField(null=True, max_length=64, verbose_name="Vis End")
-    mask = models.FloatField(null=True, verbose_name="Mask")
+    mask = models.IntegerField(null=True, verbose_name="Mask")
     position_angle = models.FloatField(null=True, verbose_name="position angle")
     data_season = models.CharField(null=True, max_length=64, verbose_name="DES data season")
     followup_date = models.CharField(null=True,max_length=64,  verbose_name="followup date")
