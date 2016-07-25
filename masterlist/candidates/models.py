@@ -21,9 +21,9 @@ class Candidate(models.Model):
     mask = models.FloatField(null=True, verbose_name="Mask")
     position_angle = models.FloatField(null=True, verbose_name="position angle")
     data_season = models.CharField(null=True, max_length=64, verbose_name="DES data season")
-    followup_date = models.FloatField(null=True, verbose_name="followup date")
-    followup_facility = models.FloatField(null=True, verbose_name="followup facility")
-    followup_success = models.FloatField(null=True, verbose_name="followup success")
+    followup_date = models.CharField(null=True,max_length=64,  verbose_name="followup date")
+    followup_facility = models.CharField(null=True,max_length=64,  verbose_name="followup facility")
+    followup_success = models.CharField(null=True,max_length=64,  verbose_name="followup success")
 
 
     def __str__(self):
