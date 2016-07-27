@@ -58,13 +58,18 @@ cd ..
 #   http://askubuntu.com/questions/694036/apache-as-non-root
 
 echo
-echo "= Reloading apache ="
-sudo /etc/init.d/apache2 reload || error_exit "Error, exit" 12
-cd ..
+echo "= Deactivating env ="
+deactivate
+
+echo
+echo "= Restarting apache ="
+sudo /etc/init.d/apache2 restart || error_exit "Error, exit" 12
 
 echo
 echo "= Exiting ="
-deactivate' && exit 0 || exit 127
+exit 0
+
+' && exit 0 || exit 127
 
 
 
