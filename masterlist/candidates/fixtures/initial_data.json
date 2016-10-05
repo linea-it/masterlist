@@ -52,7 +52,7 @@
   },
   {
     "model": "candidates.candidate",
-    "pk": 1,
+    "pk": 4,
     "fields": {
       "thumb" : "DES0042-4414_10208310_-44133023.png",
       "object_id" : "DESJ000-000",
