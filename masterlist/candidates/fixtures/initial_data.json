@@ -1,6 +1,23 @@
 [
   {
     "model": "candidates.candidate",
+    "pk": 0,
+    "fields": {
+      "thumb" : "DESJ0041-4155_10208310_-44133023.png",
+      "object_id" : "DESJ0041-4155",
+      "ra" : 10.277,
+      "dec" : -41.927,
+      "rank" : 2,
+      "vis_start" : "8/1/2015",
+      "vis_end" : "12/19/2015",
+      "data_season": "SV",
+      "followup_date": "2015",
+      "followup_facility": "Gemini South",
+      "followup_success": "Success"
+    }
+  },
+  {
+    "model": "candidates.candidate",
     "pk": 1,
     "fields": {
       "thumb" : "DES0042-4414_10208310_-44133023.png",
