@@ -22,8 +22,8 @@
     "fields": {
       "thumb" : "DESJ0120-5143.png",
       "object_id" : "DESJ0120-5143",
-      "ra" : 20.176
-      "dec" : -51.7314 
+	"ra" : 20.176,
+	"dec" : -51.7314, 
       "rank" : 1,
       "vis_start" : "8/1/2015",
       "vis_end" : "12/23/2015",
@@ -39,8 +39,8 @@
     "fields": {
       "thumb" : "DESJ2113-0114.png",
       "object_id" : "DESJ2113-0114",
-      "ra" : 313.485
-      "dec" : -1.24061 
+	"ra" : 313.485,
+	"dec" : -1.24061,
       "rank" : 1,
       "vis_start" : "8/1/2015",
       "vis_end" : "10/14/2015",
@@ -56,8 +56,8 @@
     "fields": {
       "thumb" : "DESJ2349-5113.png",
       "object_id" : "DESJ2349-5113",
-      "ra" : 357.375
-      "dec" : -51.2275
+	"ra" : 357.375,
+	"dec" : -51.2275,
       "rank" : 1,
       "vis_start" : "8/1/2015",
       "vis_end" : "12/15/2015",
@@ -73,8 +73,8 @@
     "fields": {
       "thumb" : "DESJ0104-5341.png",
       "object_id" : "DESJ0104-5341",
-      "ra" : 16.0984
-      "dec" : -53.6994 
+	"ra" : 16.0984,
+	"dec" : -53.6994,
       "rank" : 2,
       "vis_start" : "8/1/2015",
       "vis_end" : "12/1/2015",
@@ -90,8 +90,8 @@
     "fields": {
       "thumb" : "DESJ0357-4756.png",
 	"object_id" : "DESJ0357-4756",
-      "ra" : 59.3088
-      "dec" : -47.9449
+	"ra" : 59.3088,
+	"dec" : -47.9449,
       "rank" : 2,
       "vis_start" : "8/19/2015",
       "vis_end" : "1/31/2016",
