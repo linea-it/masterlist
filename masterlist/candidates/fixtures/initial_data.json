@@ -126,7 +126,7 @@
 	  "object_id" : "DESJ0221-0646",
 	  "ra" : 35.463205,
 	  "dec" : -6.792405,
-	  "rank" : ,
+	  "rank" : 1,
 	  "vis_start" : "",
 	  "vis_end" : "",
 	  "data_season": "SV",
@@ -143,7 +143,7 @@
 	  "object_id" : "DESJ0250-0008",
 	  "ra" :  42.534995,
 	  "dec" : 0.137950, 
-	  "rank" : ,
+	  "rank" : 1,
 	  "vis_start" : "",
 	  "vis_end" : "",
 	  "data_season": "SV",
@@ -160,7 +160,7 @@
 	  "object_id" : "DESJ0329-2820 ",
 	  "ra" : 52.369631,
 	  "dec" : -28.327630,
-	  "rank" : ,
+	  "rank" : 1,
 	  "vis_start" : "",
 	  "vis_end" : "",
 	  "data_season": "SV",
@@ -177,7 +177,7 @@
 	  "object_id" : "DESJ0330-5228",
 	  "ra" : 52.737216,
 	  "dec" : -52.470283,
-	  "rank" : ,
+	  "rank" : 1,
 	  "vis_start" : "",
 	  "vis_end" : "",
 	  "data_season": "SV",
@@ -194,7 +194,7 @@
 	  "object_id" : "DESJ0446-5126",
 	  "ra" : 71.553645,
 	  "dec" : -51.442376,
-	  "rank" : ,
+	  "rank" : 1,
 	  "vis_start" : "",
 	  "vis_end" : "",
 	  "data_season": "SV",
@@ -211,7 +211,7 @@
 	  "object_id" : "DESJ2336-5352",
 	  "ra" : 354.029719,
 	  "dec" : -53.876581,
-	  "rank" : ,
+	  "rank" : 1,
 	  "vis_start" : "",
 	  "vis_end" : "",
 	  "data_season": "SV",
@@ -219,23 +219,5 @@
 	  "followup_facility": "Gemini South",
 	  "followup_success": "Success"
       }
-  },
-  {
-      "model": "candidates.candidate",
-      "pk": 14,
-      "fields": {
-	  "thumb" : ".png",
-	  "object_id" : "",
-	  "ra" : 
-	  "dec" : 
-	  "rank" : ,
-	  "vis_start" : "",
-	  "vis_end" : "",
-	  "data_season": "SV",
-	  "followup_date": "2015",
-	  "followup_facility": "Gemini South",
-	  "followup_success": "Success"
-      }
-  },
-
+  }
 ]
