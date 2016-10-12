@@ -156,7 +156,7 @@
       "model": "candidates.candidate",
       "pk": 10,
       "fields": {
-	  "thumb" : "DESJ0329-2820 .png",
+	  "thumb" : "DESJ0329-2820.png",
 	  "object_id" : "DESJ0329-2820 ",
 	  "ra" : 52.369631,
 	  "dec" : -28.327630,
@@ -173,7 +173,7 @@
       "model": "candidates.candidate",
       "pk": 11,
       "fields": {
-	  "thumb" : "DESJ0330-5228 .png",
+	  "thumb" : "DESJ0330-5228.png",
 	  "object_id" : "DESJ0330-5228",
 	  "ra" : 52.737216,
 	  "dec" : -52.470283,
