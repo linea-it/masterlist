@@ -1,0 +1,1253 @@
+[
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0056-4831_14403533_-48803359.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-001", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "followup_success": "Fail", 
+            "data_season": "SV", 
+            "followup_date": "2015", 
+            "thumb": "DES0042-4414_10208310_-44133023.png", 
+            "vis_end": "12/5/2016", 
+            "followup_facility": "Gemini South", 
+            "vis_start": "8/10/2016", 
+            "rank": 10, 
+            "object_id": "DESJ000-000", 
+            "dec": -44.12075, 
+            "ra": 10.20279
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "candidates.candidate", 
+        "fields": {
+            "data_season": "SV", 
+            "dec": -44.120750000000001, 
+            "ra": 10.20279, 
+            "rank": "X"
+        }
+    }
+]
