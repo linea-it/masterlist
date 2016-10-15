@@ -433,7 +433,7 @@ def process_update():
     log.info("==================================================")
     log.info("Remove Duplicates")
     log.info("==================================================")
-    log.info("... length of new data file, duplicates removed: " + str(len(data_final_new))
+    log.info("... length of new data file, duplicates removed: " + str(len(data_final_new)))
     log.info(" ")
     log.info(" ")
 
