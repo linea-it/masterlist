@@ -18,7 +18,7 @@ mkdir -p masterlist/static/django || error_exit "Error, exit" 2
 
 echo
 echo "= Updating the images ="
-test -d masterlist/data || git clone https://github.com/bnord/masterlist_data masterlist/data || error_exit "Error, exit" 3
+test -d masterlist/data || git clone git@github.com:bnord/masterlist_data.git masterlist/data || error_exit "Error, exit" 3
 cd masterlist/data  || error_exit "Error, exit" 4
 git pull  || error_exit "Error, exit" 5
 cd ../..
